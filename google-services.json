@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "783553259061",
+    "project_id": "mrwedsmrs-98413",
+    "storage_bucket": "mrwedsmrs-98413.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783553259061:android:6851d34a9a7aeb8407337c",
+        "android_client_info": {
+          "package_name": "com.metri.mrmrsweds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWvVCI9UfOi1ahsiDK2Xw2AfzyU1doJWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
